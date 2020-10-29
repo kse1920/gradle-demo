@@ -9,3 +9,4 @@
 
 rootProject.name = "gradle-demo"
 include("app")
+include("app2")
